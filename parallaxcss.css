@@ -1,0 +1,72 @@
+.container{
+	max-width: 960px;
+	margin: 0 auto;
+	font-size: 24px;
+	padding: 25px;
+}
+
+
+.parallax_one{
+	background: url("images/morningtokyo1.jpeg");
+	background-size: cover;
+	background-attachment: fixed;
+	height: 800px
+	
+}
+.head{
+	positon: center;
+	align: center;
+	padding-top: 250px;
+	
+}
+
+.parallax_two{
+	background: url("images/tokyotemple.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	height: 1000px
+		
+}
+
+.parallax_three{
+	background: url("images/tokyonight.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	height: 1000px
+}
+p {
+    background-color: #FFFFFF;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+h1 {
+    text-align: center;
+    font-style: normal;
+    font-weight: 200;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-shadow: 1px 1px 17px #000000;
+	color: #FFFFFF;
+}
+h2 {
+    text-align: center;
+    font-weight: 200;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-shadow: 1px 1px 17px #000000;
+    color: #FFFFFF;
+}
+p {
+    text-align: left;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body {
+    background-color: #FFFFFF;
+}
